@@ -1,0 +1,7 @@
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\bin\Debug\exam.exe.config
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\bin\Debug\exam.exe
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\bin\Debug\exam.pdb
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\obj\Debug\exam.exe
+C:\Users\namdk\OneDrive\batang\C#\C#-study\exam\obj\Debug\exam.pdb

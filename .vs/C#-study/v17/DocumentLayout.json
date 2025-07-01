@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2FFA05-14D9-450F-AF6D-17E4C370EE5E}|Test\\Test.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2FFA05-14D9-450F-AF6D-17E4C370EE5E}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\interface\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|solutionrelative:interface\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\interface\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|solutionrelative:interface\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\interface\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAFF247-07E4-4D41-9768-8FDD6AD831C8}|Interface\\Interface.csproj|solutionrelative:interface\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AA7A18-5CFE-4526-89A4-250BBE09BBC9}|Delegate\\delegate.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AA7A18-5CFE-4526-89A4-250BBE09BBC9}|Delegate\\delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C280536E-9E69-4285-9A8B-0FAE6841E8D6}|IEnumerator\\IEnumerator.csproj|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ienumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C280536E-9E69-4285-9A8B-0FAE6841E8D6}|IEnumerator\\IEnumerator.csproj|solutionrelative:ienumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2822F-11AD-4E99-A9A1-BE0792D79D76}|Lambda\\lambda.csproj|c:\\users\\namdk\\onedrive\\batang\\c#\\c#-study\\lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2822F-11AD-4E99-A9A1-BE0792D79D76}|Lambda\\lambda.csproj|solutionrelative:lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCC75EC-AC5A-4B82-80C3-52929BF142C3}|Class\\Class.csproj|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCC75EC-AC5A-4B82-80C3-52929BF142C3}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:24:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Interface\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\IPrintable.cs",
+              "RelativeToolTip": "Interface\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:13:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Child.cs",
+              "RelativeDocumentMoniker": "Interface\\Child.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Child.cs",
+              "RelativeToolTip": "Interface\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:12:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Parent.cs",
+              "RelativeDocumentMoniker": "Interface\\Parent.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Parent.cs",
+              "RelativeToolTip": "Interface\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:12:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:11:33.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Lambda\\Program.cs",
+              "RelativeToolTip": "Lambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:11:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:58:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:47:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "Class\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\Class\\Program.cs",
+              "RelativeToolTip": "Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:47:27.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\IEnumerator\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerator\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\IEnumerator\\Program.cs",
+              "RelativeToolTip": "IEnumerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:47:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:56:23.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\namdk\\OneDrive\\batang\\C#\\C#-study\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:54:37.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
